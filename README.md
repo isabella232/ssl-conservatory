@@ -1,3 +1,8 @@
+iMAS endorses this iOS cert pinning library.  Project todo list - build example app using iMAS security controls and this library.
+
+Thank you ISEC Partners
+
+
 The SSL Conservatory
 ====================
 
